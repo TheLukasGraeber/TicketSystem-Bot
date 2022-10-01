@@ -11,4 +11,6 @@ Webserver:
 Data Connection:
 - Web Connection
 
+![Screenshot 2022-10-01 223842](https://user-images.githubusercontent.com/81929931/193427464-8aef3b59-9cf1-44d6-9716-a3c144e5d67f.png)
+
 Coded with Java!
